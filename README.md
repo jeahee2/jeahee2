@@ -1,4 +1,4 @@
-## Hi Everyone 👋
+## 안녕하세요 이제희입니다 👋
 
 <!--
 **jeahee2/jeahee2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
