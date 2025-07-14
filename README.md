@@ -21,7 +21,7 @@
   <br/>
   
 ## 🤔 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jeahee2=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jeahee2=anuraghazra&layout=compact)
   <br/>
   </div>
 - 🔭 I’m currently working on ...
