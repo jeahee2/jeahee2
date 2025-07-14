@@ -1,9 +1,9 @@
 ## 안녕하세요 이제희입니다 👋
-
-<!--
-**jeahee2/jeahee2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ .<div>
+  <!--Header-->
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+</div>
+  <!--Body-->
 <div>
 ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jeahee2=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
