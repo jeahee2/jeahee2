@@ -23,6 +23,8 @@
 ## 🤔 Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeahee2&layout=compact)
   <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeahee2&show_icons=true&theme=radical)
+
   </div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
