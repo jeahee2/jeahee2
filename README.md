@@ -5,6 +5,15 @@
 </div>
   <!--Body-->
 <div>
+
+ ## 🧱 Tech Stack
+  ### Language
+  <!--Python-->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <!--Java-->
+  <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <br/>
+  
 ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jeahee2=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
