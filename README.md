@@ -21,7 +21,7 @@
   <br/>
   
 ## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeahee2&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeahee2&show_icons=true&theme=cobalt)
 <br/>
   </div>
   Here are some ideas to get you started:
