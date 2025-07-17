@@ -1,7 +1,7 @@
 ## 안녕하세요 미림마이스터고 이제희입니다👋
  .<div>
   <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=300&section=header&text=안녕하세요%20이제희입니다%20&textColor=000000)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=300&section=header&text=안녕하세요%20이제희입니다%20)
 </div>
   <!--Body-->
 <div>
