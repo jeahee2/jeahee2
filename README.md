@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--Java-->
   <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white"/>
+  <!--Kotlin-->
+  <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Kotlin&logoColor=red"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
@@ -24,7 +26,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeahee2&show_icons=true&theme=cobalt)
 <br/>
   </div>
-  Here are some ideas to get you started:
   <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
