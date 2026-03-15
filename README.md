@@ -13,7 +13,7 @@
   <!--Java-->
   <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white"/>
   <!--Kotlin-->
-  <img src="https://img.shields.io/badge/Kotlin-FF0000?style=flat-square&logo=Kotlin&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Kotlin-E34F26?style=flat-square&logo=Kotlin&logoColor=red"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
