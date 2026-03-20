@@ -26,11 +26,11 @@
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <!--git-->
-  <img src="https://img.shields.io/badge/git-00000?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-000000?style=flat-square&logo=git&logoColor=white"/>
   <!--VScode-->
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> 
   <!--Intellij-->
-  <img src="https://img.shields.io/badge/Intellij-00000?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 
 
   <br/>
