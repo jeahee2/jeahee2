@@ -17,7 +17,6 @@
   <!--C-->
   <img src="https://img.shields.io/badge/C-0000FF?style=flat-square&logo=C&logoColor=white"/>
   <!--C#-->
-  <img src="https://img.shields.io/badge/C#-0000FF?style=flat-square&logo= C# &logoColor=white"/>
   <!--react-->
   <img src="https://img.shields.io/badge/react-4AA8D8?style=flat-square&logo=react&logoColor=white"/>
   <!--JavaScript-->
