@@ -28,7 +28,7 @@
   <!--git-->
   <img src="https://img.shields.io/badge/git-00000?style=flat-square&logo=git&logoColor=white"/>
   <!--VScode-->
-  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat- square&logo=visualstudiocode&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>  
   <br/>
   
 ## Github Stats
