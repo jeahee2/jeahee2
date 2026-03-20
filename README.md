@@ -29,6 +29,10 @@
   <img src="https://img.shields.io/badge/git-00000?style=flat-square&logo=git&logoColor=white"/>
   <!--VScode-->
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> 
+  <!--Intellij-->
+  <img src="https://img.shields.io/badge/Intellij-00000?style=flat-square&logo=intellijidea&logoColor=white"/>
+
+
   <br/>
   
 ## Github Stats
