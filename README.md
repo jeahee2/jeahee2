@@ -38,5 +38,4 @@
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeahee2&show_icons=true&theme=cobalt)
 <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jeahee2=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jeahee2/jeahee2)﻿
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeahee2&langs_count=10&layout=compact&theme=dark)](https://github.com/jeahee2)
