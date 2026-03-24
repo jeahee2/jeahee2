@@ -1,7 +1,7 @@
 ## 안녕하세요 미림마이스터고에서 개발하고 있는 이제희입니다👋
  .<div>
   <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=300&section=header&text=안녕하세요%20이제희입니다%20)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=300&section=header&text=안녕하세요%20미림에서개발하는이제희입니다%20)
 </div>
   <!--Body-->
 <div>
