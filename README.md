@@ -35,7 +35,11 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> 
   
    ## 📊 GitHub Activity
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeahee2&show_icons=true&theme=tokyonight)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeahee2&layout=compact&theme=tokyonight)
+<img height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeahee2&show_icons=true&theme=radical"/>
+
+<img height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeahee2&layout=compact&theme=radical"/>
   ### 📫 Contact
    - Email : leewpgml@gmail.com
+   - Instagream
