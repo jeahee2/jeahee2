@@ -33,14 +33,9 @@
   <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <!--spring-->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> 
+  
+   ## 📊 GitHub Activity
   ![GitHub Streak](https://streak-stats.demolab.com?user=jeahee2&theme=tokyonight)
-  <div>
-    ## 📊 GitHub Activity
-  ![GitHub Streak](https://streak-stats.demolab.com?user=jeahee2&theme=tokyonight)
-  </div>  
-  <div>
-      ## 📫 Contact
-  </div>
-  <div>
+   
+  ### 📫 Contact
    - Email : leewpgml@gmail.com
-  </div>
