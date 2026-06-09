@@ -35,4 +35,4 @@
   <img src="https://img.shields.io/badge/spring-00000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <br/>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeahee2&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeahee2&show_icons=true&theme=tokyonight)
