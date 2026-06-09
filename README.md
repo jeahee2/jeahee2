@@ -36,5 +36,7 @@
   ![GitHub Streak](https://streak-stats.demolab.com?user=jeahee2&theme=tokyonight)
   <div>
       ## 📫 Contact
+  </div>
+  <div>
    - Email : leewpgml@gmail.com
   </div>
