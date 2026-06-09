@@ -32,6 +32,7 @@
   <!--Intellij-->
   <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <!--spring-->
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  <br/>
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeahee2&show_icons=true&theme=tokyonight)
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> 
+  ![GitHub Streak](https://streak-stats.demolab.com?user=jeahee2&theme=tokyonight)
+   ## 📫 Contact
+   - Email : leewpgml@gmail.com
