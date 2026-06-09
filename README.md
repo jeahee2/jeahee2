@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> 
   
    ## 📊 GitHub Activity
-  ![GitHub Streak](https://streak-stats.demolab.com?user=jeahee2&theme=tokyonight)
-   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeahee2&show_icons=true&theme=tokyonight)   
   ### 📫 Contact
    - Email : leewpgml@gmail.com
