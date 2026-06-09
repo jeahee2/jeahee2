@@ -42,4 +42,4 @@ src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeahee2&show
 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeahee2&layout=compact&theme=radical"/>
   ### 📫 Contact
    - Email : leewpgml@gmail.com
-   - Instagream
+   - Instagream : @leewpgml
