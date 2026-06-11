@@ -37,7 +37,14 @@ src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeahee2&show
 
 <img height="180em"
 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeahee2&layout=compact&theme=radical"/>
+## 👨‍💻 About Me
 
+- 🎓 미림마이스터고 소프트웨어과입니다.
+- 🌱 Java, Spring Boot, React를 공부하고 있습니다.
+- 📚 BookFinder 프로젝트 개발
+- 💌 DearMe-DearYou 프로젝트 개발
+- 🎮 Python(Pygame) 게임 개발에 관심이 있습니다.
+  
   ## 📫 Contact
    <p>
   <a href="mailto:leewpgml@gmail.com">
