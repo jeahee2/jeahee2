@@ -1,5 +1,5 @@
 ## 안녕하세요 미림마이스터고에서 개발하고 있는 이제희입니다👋
- <div>
+ .<div>
   <!--Header-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=10&height=200&text=Jeahee's_%Github%20)
 </div>
