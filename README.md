@@ -7,7 +7,6 @@
 <div>
 
  ## Tech Stack
-  ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--Java-->
@@ -40,6 +39,6 @@ src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeahee2&show
 
 <img height="180em"
 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeahee2&layout=compact&theme=radical"/>
-  ### 📫 Contact
+  ## 📫 Contact
    - Email : leewpgml@gmail.com
    - Instagream : @leewpgml
