@@ -14,9 +14,8 @@
   <img src="https://img.shields.io/badge/Kotlin-E34F26?style=flat-square&logo=Kotlin&logoColor=white"/>
   <!--C-->
   <img src="https://img.shields.io/badge/C-0000FF?style=flat-square&logo=C&logoColor=white"/>
-  <!--C#-->
   <!--react-->
-  <img src="https://img.shields.io/badge/react-4AA8D8?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-4AA8D8?style=flat-square&logo=React&logoColor=white"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
