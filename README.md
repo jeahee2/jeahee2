@@ -40,7 +40,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j
   <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/jeahee2"/>
 </a>
-</a>
+
 ## About Me
 
 - 🎓 미림마이스터고 소프트웨어과입니다.
