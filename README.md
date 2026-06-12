@@ -30,7 +30,7 @@
   <!--spring-->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> 
   
-   ## <h1> GitHub Activity </h1>
+   ### <h1> GitHub Activity </h1>
 <img height="180em"
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeahee2&show_icons=true&theme=radical"/>
 
