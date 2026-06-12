@@ -41,7 +41,8 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j
   <img src="https://render.gitanimals.org/farms/jeahee2"/>
 </a>
 </a>
-### 👨‍💻 About Me
+## About Me
+
 - 🎓 미림마이스터고 소프트웨어과입니다.
 - 🌱 Java, Spring Boot, React를 공부하고 있습니다.
 - 📚 BookFinder 프로젝트 개발
