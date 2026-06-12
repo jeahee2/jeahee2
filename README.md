@@ -6,7 +6,7 @@
 <div>
 
  ## 
- <h3>Tech Stack</h3>
+ <h1>Tech Stack</h1>
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--Java-->
