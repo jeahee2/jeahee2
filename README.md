@@ -1,9 +1,9 @@
 ## 안녕하세요 미림마이스터고에서 개발하고 있는 이제희입니다👋<div>
   <!--Header-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=10&height=200&text=Jeahee's_%Github%20)
-<div>
-  <--body--!>
 </div>
+  <!--body-->
+<div>
  ## <h1>Tech Stack</h1>
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
