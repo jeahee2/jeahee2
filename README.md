@@ -49,7 +49,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j
 - 💌 DearMe-DearYou 프로젝트 개발
 - 🎮 Python(Pygame) 게임 개발에 관심이 있습니다.
   
-## 📫 Contact
+## Contact
    <p>
   <a href="mailto:leewpgml@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
