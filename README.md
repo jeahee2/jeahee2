@@ -41,6 +41,13 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j
   <img src="https://render.gitanimals.org/farms/jeahee2"/>
 </a>
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jeahee2&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jeahee2"
+  width="600"
+  height="300"
+/>
+</a>
 ## About Me
 
 - 🎓 미림마이스터고 소프트웨어과입니다.
