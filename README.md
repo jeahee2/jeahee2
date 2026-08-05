@@ -37,10 +37,6 @@ src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeahee2&show
 <img height="180em"
 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeahee2&layout=compact&theme=radical"/>
 
-  <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/jeahee2"/>
-</a>
-
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jeahee2&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/jeahee2"
