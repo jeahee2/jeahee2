@@ -47,10 +47,9 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j
 ## About Me
 
 - 🎓 미림마이스터고 소프트웨어과입니다.
-- 🌱 Java, Spring Boot, React를 공부하고 있습니다.
 - 📚 BookFinder 프로젝트 개발
 - 💌 DearMe-DearYou 프로젝트 개발
-- 🎮 Python(Pygame) 게임 개발에 관심이 있습니다.
+- 🎮 Python(Pygame)을 이용한 인형뽑기 게임 개발
   
 ## Contact
    <p>
